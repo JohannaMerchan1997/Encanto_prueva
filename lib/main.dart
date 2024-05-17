@@ -13,7 +13,7 @@ class MainApp extends StatelessWidget {
       home: Scaffold(
         appBar: AppBar(
           title: Text('ENCANTO'),
-          backgroundColor: Color.fromARGB(255, 223, 27, 148),
+          backgroundColor: Color.fromARGB(255, 223, 83, 27),
         ),
         body: const Center(
           child: Image(image: AssetImage("images/encanto.jpeg")),
